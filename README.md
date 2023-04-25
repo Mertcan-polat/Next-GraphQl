@@ -2,4 +2,4 @@ This application has been prepared with GraphQl and NextJS for practical purpose
 
 CSS editing was done with TailwindCss.
 
-When you start the project in your local, you first you have to enter npm install command in terminal. Run the npm run dev command to start the project.
+When you start the project in your local, you first you have to enter 'npm install' command in terminal. Run the 'npm run dev' command to start the project.
